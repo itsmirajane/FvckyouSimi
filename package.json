@@ -1,7 +1,7 @@
 {
   "name": "random-id",
   "version": "1.0.0",
-  "description": "Random name , id , image and others",
+  "description": "Fake identity include name , dob , street address and others stuff .",
   "main": "index.js",
   "scripts": {
     "start": "tsc"
