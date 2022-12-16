@@ -1,7 +1,7 @@
 {
-  "name": "random-id",
+  "name": "fvcksimi",
   "version": "1.0.0",
-  "description": "Fake identity include name , dob , street address and others stuff .",
+  "description": "A simple auto message library based on Simsimi chat .",
   "main": "index.js",
   "scripts": {
     "start": "tsc"
@@ -9,11 +9,9 @@
   "author": "Ichikyuu",
   "license": "ISC",
   "devDependencies": {
-    "@types/node-fetch": "^2.6.2",
-    "cheerio": "^1.0.0-rc.12"
+    "@types/node-fetch": "^2.6.2"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0",
-    "cheerio": "^1.0.0-rc.12"
+    "node-fetch": "^2.6.0"
   }
 }
